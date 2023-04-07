@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br/>
-    <img alt="a" src="https://github-readme-stats.vercel.app/api?username=mat0904&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&bg_color=FFFFFF" />
-  <img alt="a" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mat0904&langs_count=10&layout=compact&theme=gruvbox&hide_border=true&bg_color=FFFFFF" />
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=VOTRE_NOM_UTILISATEUR_GITHUB&show_icons=true&title_color=00ADB5&icon_color=00ADB5&text_color=333333&bg_color=ffffff)](https://github.com/VOTRE_NOM_UTILISATEUR_GITHUB)
 
 [![mat0904's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mat0904)](https://github.com/anuraghazra/github-readme-stats)
