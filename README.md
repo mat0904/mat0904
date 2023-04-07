@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VOTRE_USERNAME_WAKATIME&api_key=waka_5f63e7cf-bc19-48ba-bd9a-6c47c56e36fa)](https://wakatime.com/@mat0904)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VOTRE_USERNAME_WAKATIME&api_key=waka_5f63e7cf-bc19-48ba-bd9a-6c47c56e36fa)](https://wakatime.com/mat0904)
