@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=mat0904&show_icons=true&title_color=00ADB5&icon_color=00ADB5&text_color=333333&bg_color=ffffff)](https://github.com/mat0904)
+[![mat0904's GitHub stats](https://github-readme-stats.vercel.app/api?username=mat0904&show_icons=true&title_color=00ADB5&icon_color=00ADB5&text_color=333333&bg_color=ffffff)](https://github.com/mat0904)
 
 [![mat0904's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mat0904)](https://github.com/anuraghazra/github-readme-stats)
